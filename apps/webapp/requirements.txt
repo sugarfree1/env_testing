@@ -6,7 +6,7 @@ django-appconf==0.5
 django-compressor==1.1.2
 django-debug-toolbar==0.9.4
 google-api-python-client==1.0beta8
-httplib2==0.7.4
+httplib2==0.18.0
 nose==1.1.2
 oauth==1.0.1
 oauth2==1.5.211
