@@ -12,5 +12,5 @@ oauth==1.0.1
 oauth2==1.5.211
 python-gflags==2.0
 simplejson==2.5.2
-urllib3==1.3
+urllib3==1.26.5
 wsgiref==0.1.2
